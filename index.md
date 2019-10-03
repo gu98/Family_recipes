@@ -3,5 +3,5 @@
 set of reciepes as given by my grandma 
 
 - Pizzas (TODO)
-- Sauces (TOD)
+- Suases (TOD)
 - spreads (TODO)
